@@ -35,11 +35,9 @@ Status: Stable Release
 | Package                | Responsibility                           |
 |------------------------|------------------------------------------|
 | vn.pmgteam.lotus2d.core       | Engine Lifecycle & Event Bus             |
-| vn.pmgteam.lotus2d.editor     | Module Logic & Auto-Save Triggers        |
+| vn.pmgteam.lotus2d.editor     | Java Swing Editor & rigging tool       |
 | vn.pmgteam.lotus2d.viewer     | allFunction-in-one model viewer       |
-| com.lotus2d.api        | External Plugin Interfaces               |
-| com.lotus2d.util       | File I/O, Math, and General Helpers      |
-
+| vn.pmgteam.lotus2d.framework     | Easy2Use runtime-rendering Framework      |
 ---
 
 ## 🚀 QUICK INSTALLATION
