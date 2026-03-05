@@ -36,7 +36,7 @@ Status: Stable Release
 |------------------------|------------------------------------------|
 | vn.pmgteam.lotus2d.core       | Engine Lifecycle & Event Bus             |
 | vn.pmgteam.lotus2d.editor     | Java Swing Editor & rigging tool       |
-| vn.pmgteam.lotus2d.viewer     | allFunction-in-one model viewer       |
+| vn.pmgteam.lotus2d.viewer     | allFunction-in-one model viewer (Vtubing, etc...)       |
 | vn.pmgteam.lotus2d.framework     | Easy2Use runtime-rendering Framework      |
 ---
 
