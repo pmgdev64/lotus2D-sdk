@@ -42,11 +42,13 @@ Status: Stable Release
 
 ## 🚀 QUICK INSTALLATION
 
+``` bash
 $ git clone https://github.com/pmgdev64/lotus2d-sdk.git
 $ cd lotus2d-sdk
 $ ./gradlew build
+```
 
 ---
 
 ## 📄 LICENSE
-This project is licensed under the MIT License.
+This project is licensed under the GNU GPL v3 License.
